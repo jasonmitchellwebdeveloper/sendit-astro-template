@@ -94,7 +94,7 @@ content_blocks:
         image: /images/team/7.jpg
         image_alt: "Team member: Coen Simmons"
 
-      - name: Fran Figureson
+      - name: Jason Mitchell
         designation: Head of People
         image: /images/team/8.jpg
         image_alt: "Team member: Fran Figureson"
